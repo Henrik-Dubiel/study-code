@@ -1,0 +1,3 @@
+Hello Lab 6!
+Line 2: 123 4.56
+Line 3: End.
